@@ -1,0 +1,8 @@
+1- Sense-check the data frame.
+2- Retain the review and summary columns.
+3- Determine if there are any missing values in the data.
+4- Prepare the data for NLP.
+5-Change to lowercase, Drop duplicates, remove punctuation, Tokenize and create a word cloud in each of the columns respectively.
+6-Identify the 15 most common words and polarity.
+7-Identify and print the top 20 positive and negative reviews and summaries respectively
+Thanks.
